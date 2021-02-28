@@ -14,6 +14,10 @@ import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
 import javax.inject.Singleton
 
+/* Author: Arafath Misree
+*  Class to build reftorfit client with it's dependencies
+* */
+
 @Module
 @InstallIn(ApplicationComponent::class)
 object NetworkModule {

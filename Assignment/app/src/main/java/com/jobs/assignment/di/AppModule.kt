@@ -11,6 +11,11 @@ import dagger.hilt.android.components.ApplicationComponent
 import dagger.hilt.android.qualifiers.ApplicationContext
 import javax.inject.Singleton
 
+/* Author: Arafath Misree
+*  Root Kick off Class
+* */
+
+
 @Module
 @InstallIn(ApplicationComponent::class)
 object AppModule {

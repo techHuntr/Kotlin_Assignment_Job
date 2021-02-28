@@ -11,6 +11,11 @@ import dagger.hilt.InstallIn
 import dagger.hilt.android.components.ApplicationComponent
 import javax.inject.Singleton
 
+
+/* Author: Arafath Misree
+*  Repository module class
+* */
+
 @Module
 @InstallIn(ApplicationComponent::class)
 object RepositoryModule {

@@ -9,6 +9,10 @@ import com.jobs.assignment.R
 import com.jobs.assignment.presentation.base.BaseActivity
 import dagger.hilt.android.AndroidEntryPoint
 
+
+/* Author: Arafath Misree
+*  Kick off Activity for Hosting navigation and Bottom Nav
+* */
 @AndroidEntryPoint
 class MainActivity : BaseActivity() {
 
