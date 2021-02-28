@@ -1,9 +1,0 @@
-<resources>
-    <string name="app_name">Assignment</string>
-    <string name="jobs">Jobs</string>
-    <string name="jobDetail">Job Detail</string>
-    <string name="reserve">Reserve</string>
-    <string name="profile">Profile</string>
-    <string name="error">Oops! Something went wrong</string>
-    <string name="ok">OK</string>
-</resources>
