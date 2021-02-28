@@ -19,7 +19,7 @@ This is a android Kotlin application built using latest android best practices t
 
 
 ## Architecture
-![Architecture](https://github.com/techHuntr/Kotlin_Assignment_Job/blob/main/dmeo/architecture%20Document.png)
+![Architecture](https://github.com/techHuntr/Kotlin_Assignment_Job/blob/main/Demo/architecture%20Document.png)
 
 
 ## Steps to build the app
