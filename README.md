@@ -1,4 +1,4 @@
-# Kotlin_Assignment_Job
+
 # Job-MVVM
 
 > An Android application built using Clean + MVVM architecture.
